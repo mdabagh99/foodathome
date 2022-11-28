@@ -1,0 +1,103 @@
+*{
+  font-family: "Montserrat";
+}
+
+#navbar{
+  padding-left: 20px;
+  padding-right: 20px; 
+  font-size: 16px;
+}
+
+#logo{
+  margin: 0px;
+}
+
+#masthead {
+  padding-top: 150px;
+  padding-bottom: 100px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.container-fluid{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+
+
+.btn-cook{
+  background-color: #00D0FF;
+  border-radius: 99px;
+  fill: #FFFFFF;
+  color: #FFFFFF;
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 16px 36px 16px 36px;
+  box-shadow: 0px 21px 25px -15px rgba(0, 0, 0, 0.5);
+  border: none;
+  margin-top: 20px;
+}
+
+#features {
+  background-color: black;
+  text-align: center;
+  padding-bottom: 75px;
+}
+
+#features h1 {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#features img {
+  width: 100px;
+  height: 100px;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+#root{
+  padding: 0px;
+}
+
+.recipe-img{
+  width: 250px;
+  height: 166px;
+  margin-bottom: 20px;
+}
+
+.recipe-block{
+  border-radius: 25px;
+  padding: 20px;
+  background-color: #00d0ff5c;
+  margin: 25px;
+  box-shadow: 0px 21px 25px -15px rgba(0, 0, 0, 0.5);
+
+}
+
+#recipe-generator{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+#recipe-generator h1{
+  padding-bottom: 30px;
+}
+
+
+
+input{
+  padding: 12px 20px;
+  width: 100%;
+}
+
+
+#btn-search{
+  background-color: black;
+}
+
+#recipe-btn{
+  background-color: black;
+}
